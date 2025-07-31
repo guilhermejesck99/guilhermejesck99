@@ -16,4 +16,4 @@
     <img align="center" alt="Power Automate" src="https://img.shields.io/badge/Power Automate-%2302569B.svg?style=for-the-badge&logo=&logoColor=white)"/>
 </div><br/>
 
-### Atualmente trabalho com RPA (Robotic Process Automation) e Data Analytics, estou aprimorando meus conhecimentos nessas áreas e em IA.
+### Atualmente trabalho com RPA (Robotic Process Automation) e Data Analytics, e estou passando por uma transição de carreira aprimorando meus conhecimentos na programação.
