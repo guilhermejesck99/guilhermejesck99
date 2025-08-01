@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Guilherme Garcia ✋🏼
 ### E finalmente criei meu GitHub para começar colocar meus trabalhos.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-guimaraes-garcia/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/guilhermegwj/?next=%2F)!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-guimaraes-garcia/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/guilhermegwj/?next=%2F)
 
 
-[Ggarcia GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermejesck99&show_icons=true&theme=dark)
+![Ggarcia GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermejesck99&show_icons=true&theme=dark)
 
 ## Tecnologias que trabalho no dia a dia:
 
