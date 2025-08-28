@@ -10,12 +10,13 @@
 ## Tecnologias que trabalho no dia a dia:
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="VBSCRIPT" src="https://img.shields.io/badge/VBSCRIPT%20-000B1D.svg?style=for-the-badge&logo=VBSCRIPT20&logoColor=white"/>
-    <img align="center" alt="PowerBI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-    <img align="center" alt="Sharepoint" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"/>
-    <img align="center" alt="Automation Anywhere" src="https://img.shields.io/badge/Automation Anywhere-FFAA00?style=for-the-badge&logoColor=%23000000"/>
-    <img align="center" alt="Power Automate" src="https://img.shields.io/badge/Power Automate-%2302569B.svg?style=for-the-badge&logo=&logoColor=white)"/>
+    <img align="center" alt="PowerAutomate" height="30" width="30" src="https://github.com/user-attachments/assets/3a1ae60f-e096-4ab7-88b2-2e801b4b39cb"/>
+    <img align="center" alt="AutomationAnywhere" height="30" width="30" src="https://github.com/user-attachments/assets/2de8a6ad-3d25-4172-bae0-21e430b10cc2"/>
+    <img align="center" alt="PowerBi" height="30" width="30" src="https://github.com/user-attachments/assets/81b13483-6ddc-446e-9b6a-25178c417fb9"/>
+    <img align="center" alt="Excel" height="30" width="30" src="https://github.com/user-attachments/assets/19c79d4f-b844-4aef-ab96-5f6ccde64ffa"/>
+    <img align="center" alt="Figma" height="30" width="22" src="https://github.com/user-attachments/assets/13b0a655-4e6b-4912-aaf3-de7c2ddf8478"/>
+    <img align="center" alt="Sharepoint" height="30" width="30" src="https://github.com/user-attachments/assets/3cbf703d-4fc6-41a1-bc80-9305e7c41954"/>
+    <img align="center" alt="Jira" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/>
 </div><br/>
 
 #### Atualmente trabalho com RPA (Robotic Process Automation) e Data Analytics, e estou passando por uma transição de carreira aprimorando meus conhecimentos na programação.
