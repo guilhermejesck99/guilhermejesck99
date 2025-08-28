@@ -1,6 +1,8 @@
 ### Olá! Eu sou o Guilherme Garcia ✋🏼
 #### E finalmente criei meu GitHub para começar colocar meus trabalhos.
 
+#### Atualmente trabalho com RPA (Robotic Process Automation) e Data Analytics, e estou aprimorando meus conhecimentos para análise de dados.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-guimaraes-garcia/) 
 
 
@@ -10,6 +12,7 @@
 ## Tecnologias que trabalho no dia a dia:
 
 <div style="display: inline_block"><br/>
+    <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
     <img align="center" alt="PowerAutomate" height="30" width="30" src="https://github.com/user-attachments/assets/3a1ae60f-e096-4ab7-88b2-2e801b4b39cb"/>
     <img align="center" alt="AutomationAnywhere" height="30" width="30" src="https://github.com/user-attachments/assets/2de8a6ad-3d25-4172-bae0-21e430b10cc2"/>
     <img align="center" alt="PowerBi" height="30" width="30" src="https://github.com/user-attachments/assets/81b13483-6ddc-446e-9b6a-25178c417fb9"/>
@@ -19,4 +22,4 @@
     <img align="center" alt="Jira" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/>
 </div><br/>
 
-#### Atualmente trabalho com RPA (Robotic Process Automation) e Data Analytics, e estou aprimorando meus conhecimentos para análise de dados.
+
