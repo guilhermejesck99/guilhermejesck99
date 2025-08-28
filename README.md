@@ -19,4 +19,4 @@
     <img align="center" alt="Jira" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/>
 </div><br/>
 
-#### Atualmente trabalho com RPA (Robotic Process Automation) e Data Analytics, e estou passando por uma transição de carreira aprimorando meus conhecimentos na programação.
+#### Atualmente trabalho com RPA (Robotic Process Automation) e Data Analytics, e estou aprimorando meus conhecimentos para análise de dados.
