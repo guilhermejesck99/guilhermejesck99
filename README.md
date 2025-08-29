@@ -1,16 +1,14 @@
-### Olá! Eu sou o Guilherme Garcia ✋🏼
-#### E finalmente criei meu GitHub para começar colocar meus trabalhos.
+## Olá! Eu sou o Guilherme Garcia ✋🏼
 
+#### E finalmente criei meu GitHub para começar colocar meus trabalhos.
 #### Atualmente trabalho com RPA (Robotic Process Automation) e Data Analytics, e estou aprimorando meus conhecimentos para análise de dados.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-guimaraes-garcia/) 
 
 
-![Ggarcia GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermejesck99&show_icons=true&theme=dark&hide_title=true)
+![Ggarcia GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermejesck99&show_icons=true&theme=dark&hide_title=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermejesck99&layout=compact&theme=dark)
 
-
-## Tecnologias que trabalho no dia a dia:
-
+### Tecnologias que trabalho no dia a dia:
 <div style="display: inline_block"><br/>
     <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
     <img align="center" alt="PowerAutomate" height="30" width="30" src="https://github.com/user-attachments/assets/3a1ae60f-e096-4ab7-88b2-2e801b4b39cb"/>
