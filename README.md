@@ -1,4 +1,4 @@
-## Olá! Eu sou o Guilherme Garcia ✋🏼
+## Olá! Eu sou o Guilherme Garcia 👋🏻
 
 #### E finalmente criei meu GitHub para começar colocar meus trabalhos.
 #### Atualmente trabalho com RPA (Robotic Process Automation), estou aprimorando meus conhecimentos para análise de dados, e sempre estou aprendendo alguma tecnologia. 
