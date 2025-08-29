@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Guilherme Garcia ✋🏼
 
 #### E finalmente criei meu GitHub para começar colocar meus trabalhos.
-#### Atualmente trabalho com RPA (Robotic Process Automation) e Data Analytics, e estou aprimorando meus conhecimentos para análise de dados.
+#### Atualmente trabalho com RPA (Robotic Process Automation), estou aprimorando meus conhecimentos para análise de dados, e sempre estou aprendendo alguma tecnologia. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-guimaraes-garcia/) 
 
